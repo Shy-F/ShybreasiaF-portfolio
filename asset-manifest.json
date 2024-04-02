@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.d1316d70.css",
-    "main.js": "/react-gh-pages/static/js/main.d8783c02.js",
-    "static/js/787.3b1c4bfa.chunk.js": "/react-gh-pages/static/js/787.3b1c4bfa.chunk.js",
-    "static/media/profile-pic.png": "/react-gh-pages/static/media/profile-pic.99ce229f55ffcac0632d.png",
-    "static/media/helvetica-neu.ttf": "/react-gh-pages/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
-    "static/media/LaBelleAurore.woff": "/react-gh-pages/static/media/LaBelleAurore.9c5433c64baa43d1d274.woff",
-    "static/media/LaBelleAurore.woff2": "/react-gh-pages/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
-    "static/media/logo-s.png": "/react-gh-pages/static/media/logo-s.646bbd82bac7bff4e8b3.png",
-    "static/media/CoolveticaRg-Regular.woff": "/react-gh-pages/static/media/CoolveticaRg-Regular.8307bfa187bccdc55f4d.woff",
-    "static/media/CoolveticaRg-Regular.woff2": "/react-gh-pages/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
-    "index.html": "/react-gh-pages/index.html",
-    "main.d1316d70.css.map": "/react-gh-pages/static/css/main.d1316d70.css.map",
-    "main.d8783c02.js.map": "/react-gh-pages/static/js/main.d8783c02.js.map",
-    "787.3b1c4bfa.chunk.js.map": "/react-gh-pages/static/js/787.3b1c4bfa.chunk.js.map"
+    "main.css": "/ShybreasiaF-portfolio/static/css/main.dabcee30.css",
+    "main.js": "/ShybreasiaF-portfolio/static/js/main.2b43c9c5.js",
+    "static/js/787.3b1c4bfa.chunk.js": "/ShybreasiaF-portfolio/static/js/787.3b1c4bfa.chunk.js",
+    "static/media/profile-pic.png": "/ShybreasiaF-portfolio/static/media/profile-pic.99ce229f55ffcac0632d.png",
+    "static/media/helvetica-neu.ttf": "/ShybreasiaF-portfolio/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/LaBelleAurore.woff": "/ShybreasiaF-portfolio/static/media/LaBelleAurore.9c5433c64baa43d1d274.woff",
+    "static/media/LaBelleAurore.woff2": "/ShybreasiaF-portfolio/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/logo-s.png": "/ShybreasiaF-portfolio/static/media/logo-s.646bbd82bac7bff4e8b3.png",
+    "static/media/CoolveticaRg-Regular.woff": "/ShybreasiaF-portfolio/static/media/CoolveticaRg-Regular.8307bfa187bccdc55f4d.woff",
+    "static/media/CoolveticaRg-Regular.woff2": "/ShybreasiaF-portfolio/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "index.html": "/ShybreasiaF-portfolio/index.html",
+    "main.dabcee30.css.map": "/ShybreasiaF-portfolio/static/css/main.dabcee30.css.map",
+    "main.2b43c9c5.js.map": "/ShybreasiaF-portfolio/static/js/main.2b43c9c5.js.map",
+    "787.3b1c4bfa.chunk.js.map": "/ShybreasiaF-portfolio/static/js/787.3b1c4bfa.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d1316d70.css",
-    "static/js/main.d8783c02.js"
+    "static/css/main.dabcee30.css",
+    "static/js/main.2b43c9c5.js"
   ]
 }
