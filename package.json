@@ -1,7 +1,7 @@
 {
   "name": "shybreasia-portfolio",
   "version": "0.1.0",
-  "homepage": "https://Shy-F.github.io/ShybreasiaF-portfolio",
+  "homepage": "http://Shy-F.github.io/ShybreasiaF-portfolio",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.4.0",
